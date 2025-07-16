@@ -4,7 +4,7 @@
 I do not claim ownership of this content; this is merely a reorganization of the phonetic table used for English in Diffsinger.
 - Examples and table can be found on [wiki_usage_guide.md](https://github.com/spicytigermeat/tiger_diffsinger/blob/main/wiki_usage_guide.md) by [spicytigermeat](https://github.com/spicytigermeat).
 - Arpabet to IPA can be found [here](https://docs.soapboxlabs.com/resources/linguistics/arpabet-to-ipa/).
-- And all audio examples were extracted from Wikipedia.
+- All audio examples were extracted from Wikipedia.
 
 ## Vowels
 | DS_Arpa | IPA | Example | Sound |
@@ -40,28 +40,28 @@ I do not claim ownership of this content; this is merely a reorganization of the
 | DS_Arpa | IPA | Example | Sound |
 |--|--|--|--|
 | b | b | bubble [***b*** ah b ax l] | [Audio](https://upload.wikimedia.org/wikipedia/commons/2/2c/Voiced_bilabial_plosive.ogg)
-| ch | tʃ | check [***ch*** eh k] |
-| d | d | duty [***d*** uw dx iy] |
-| dh | ð | thy [***dh*** ay] |
+| ch | tʃ | check [***ch*** eh k] | [Audio](https://upload.wikimedia.org/wikipedia/commons/9/97/Voiceless_palato-alveolar_affricate.ogg)
+| d | d | duty [***d*** uw dx iy] | [Audio](https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg)
+| dh | ð | thy [***dh*** ay] | [Audio](https://upload.wikimedia.org/wikipedia/commons/6/6a/Voiced_dental_fricative.ogg)
 | dx | ɾ | butter [b ah ***dx*** er] | [Audio](https://upload.wikimedia.org/wikipedia/commons/a/a0/Alveolar_tap.ogg)
-| f | f | fish [***f*** ih sh] |
-| g | g | glob [***g*** l aa b] |
-| hh | h | help [***hh*** eh l p] |
-| jh | dʒ | joke [***jh*** ow k] |
-| k | k | calf [***k*** ae f] |
-| l | l | little [***l*** ih dx ax l] |
-| m | m | make [***m*** ey k] |
-| n | n | noodle [***n*** uw dx ax l] |
-| ng | ŋ | thing [th ih ***ng***] |
-| p | p | price [***p*** r ay s] |
-| r | ɹ | rice [***r*** ay s] |
-| s | s | slay [***s*** l ey] |
-| sh | ʃ | ship [***sh*** ih p] |
-| t | t | tip [***t*** ih p] |
-| th | θ | thigh [***th*** ay] |
-| v | v | vibe [***v*** ay b] |
-| z | z | zoo [***z*** uw] |
-| zh | ʒ | asia [ey ***zh*** ah] |
+| f | f | fish [***f*** ih sh] | [Audio](https://upload.wikimedia.org/wikipedia/commons/c/c7/Voiceless_labio-dental_fricative.ogg)
+| g | g | glob [***g*** l aa b] | [Audio](https://upload.wikimedia.org/wikipedia/commons/1/12/Voiced_velar_plosive_02.ogg)
+| hh | h | help [***hh*** eh l p] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/da/Voiceless_glottal_fricative.ogg)
+| jh | dʒ | joke [***jh*** ow k] | [Audio](https://upload.wikimedia.org/wikipedia/commons/e/e6/Voiced_palato-alveolar_affricate.ogg)
+| k | kʰ | calf [***k*** ae f] | -
+| l | ɫ | little [***l*** ih dx ax l] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d3/Velarized_alveolar_lateral_approximant.ogg)
+| m | m | make [***m*** ey k] | [Audio](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg)
+| n | n | noodle [***n*** uw dx ax l] | [Audio](https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg)
+| ng | ŋ | thing [th ih ***ng***] | [Audio](https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg)
+| p | pʰ | price [***p*** r ay s] | - 
+| r | ɹ̠ | rice [***r*** ay s] | [Audio](https://upload.wikimedia.org/wikipedia/commons/3/33/Postalveolar_approximant.ogg)
+| s | s | slay [***s*** l ey] | [Audio](https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiceless_alveolar_sibilant.ogg)
+| sh | ʃ | ship [***sh*** ih p] | [Audio](https://upload.wikimedia.org/wikipedia/commons/c/cc/Voiceless_palato-alveolar_sibilant.ogg)
+| t | tʰ | tip [***t*** ih p] | -
+| th | θ | thigh [***th*** ay] | [Audio](https://upload.wikimedia.org/wikipedia/commons/8/80/Voiceless_dental_fricative.ogg)
+| v | v | vibe [***v*** ay b] | [Audio](https://upload.wikimedia.org/wikipedia/commons/4/42/Voiced_labio-dental_fricative.ogg)
+| z | z | zoo [***z*** uw] | [Audio](https://upload.wikimedia.org/wikipedia/commons/c/c0/Voiced_alveolar_sibilant.ogg)
+| zh | ʒ | asia [ey ***zh*** ah] |[Audio](https://upload.wikimedia.org/wikipedia/commons/3/30/Voiced_palato-alveolar_sibilant.ogg)
 
 
 ## Other
