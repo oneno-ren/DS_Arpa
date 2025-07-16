@@ -15,7 +15,7 @@ I do not claim ownership of this content; this is merely a reorganization of the
 | ao<sup>1</sup> | ɔ | all [***ao*** l] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg)
 | aw | aʊ | out [***aw*** t] | -
 | ax<sup>2</sup> | ə | again [***ax*** g eh n] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg)
-| ay | aɪ | fly [f l ***ay*** | -
+| ay | aɪ | fly [f l ***ay***] | -
 | eh | ɛ | get [g ***eh*** t] | [Audio](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg)
 | er | ɝ | her [hh ***er***] | [Audio](https://upload.wikimedia.org/wikipedia/commons/e/e1/En-us-er.ogg)
 | ey | eɪ | play [p l ***ey***] | -
