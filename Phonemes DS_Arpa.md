@@ -25,8 +25,9 @@ I do not claim ownership of this content; this is merely a reorganization of the
 | oy | ɔɪ | boy [b ***oy***] | -
 | uh | ʊ | good [g ***uh*** d] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d5/Near-close_near-back_rounded_vowel.ogg)
 | uw | u | too [t ***uw***] | [Audio](https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg)
- <sup>1</sup>: [ao] is a multi-use phoneme dependent on context. Preceding [l], it makes "all", but preceding [r], it makes "or".<br>
-  <sup>2</sup>: [ax] is a schwa, which is another multi-use phoneme dependent on context. It creates [el] when it precedes [ax l], for example.
+
+<sup>1</sup>: [ao] is a multi-use phoneme dependent on context. Preceding [l], it makes "all", but preceding [r], it makes "or".<br>
+<sup>2</sup>: [ax] is a schwa, which is another multi-use phoneme dependent on context. It creates [el] when it precedes [ax l], for example.
 
 ## Semivowels
 | DS_Arpa | IPA | Example | Sound |
