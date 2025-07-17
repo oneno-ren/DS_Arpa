@@ -12,9 +12,10 @@ I do not claim ownership of this content; this is merely a reorganization of the
 | aa | ɑ | body [b ***aa*** d iy] | [Audio](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg)
 | ae | æ | cat [k ***ae*** t] | [Audio](https://upload.wikimedia.org/wikipedia/commons/c/c9/Near-open_front_unrounded_vowel.ogg)
 | ah | ʌ | cut [k ***ah*** t] | [Audio](https://upload.wikimedia.org/wikipedia/commons/8/80/PR-open-mid_back_unrounded_vowel2.ogg)
-| ao<sup>1</sup> | ɔ/ɒ | all [***ao*** l] | [ɔ Audio](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) [ɒ Audio](https://upload.wikimedia.org/wikipedia/commons/3/31/PR-open_back_rounded_vowel.ogg)
+| ao<sup>1</sup> | ɔ/ɒ | all [***ao*** l] | [ɒ Audio](https://upload.wikimedia.org/wikipedia/commons/3/31/PR-open_back_rounded_vowel.ogg)
+| oh<sup>2</sup> | ɔ | all [***oh*** l] | [ɔ Audio](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg)
 | aw | aʊ | out [***aw*** t] |
-| ax<sup>2</sup> | ə | again [***ax*** g eh n] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg)
+| ax<sup>3</sup> | ə | again [***ax*** g eh n] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg)
 | ay | aɪ | fly [f l ***ay***] | -
 | eh | ɛ | get [g ***eh*** t] | [Audio](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg)
 | er | ɝ | her [hh ***er***] | [Audio](https://upload.wikimedia.org/wikipedia/commons/e/e1/En-us-er.ogg)
@@ -27,7 +28,8 @@ I do not claim ownership of this content; this is merely a reorganization of the
 | uw | u | too [t ***uw***] | [Audio](https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg)
 
 <sup>1</sup>: [ao] is a multi-use phoneme dependent on context. Preceding [l], it makes "all", but preceding [r], it makes "or".<br>
-<sup>2</sup>: [ax] is a schwa, which is another multi-use phoneme dependent on context. It creates [el] when it precedes [ax l], for example.
+<sup>2</sup>: [oh] is a multi-use phoneme dependent on context. This phoneme is most usual in non-American English variants.<br>
+<sup>3</sup>: [ax] is a schwa, which is another multi-use phoneme dependent on context. It creates [el] when it precedes [ax l], for example.
 
 ## Semivowels
 | DS_Arpa | IPA | Example | Sound |
