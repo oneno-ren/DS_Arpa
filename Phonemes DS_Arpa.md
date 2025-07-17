@@ -12,7 +12,7 @@ I do not claim ownership of this content; this is merely a reorganization of the
 | aa | ɑ | body [b ***aa*** d iy] | [Audio](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg)
 | ae | æ | cat [k ***ae*** t] | [Audio](https://upload.wikimedia.org/wikipedia/commons/c/c9/Near-open_front_unrounded_vowel.ogg)
 | ah | ʌ | cut [k ***ah*** t] | [Audio](https://upload.wikimedia.org/wikipedia/commons/8/80/PR-open-mid_back_unrounded_vowel2.ogg)
-| ao<sup>1</sup> | ɔ/ɒ | all [***ao*** l] | [ɒ Audio](https://upload.wikimedia.org/wikipedia/commons/3/31/PR-open_back_rounded_vowel.ogg)
+| ao<sup>1</sup> | ɒ | all [***ao*** l] | [ɒ Audio](https://upload.wikimedia.org/wikipedia/commons/3/31/PR-open_back_rounded_vowel.ogg)
 | oh<sup>2</sup> | ɔ | all [***oh*** l] | [ɔ Audio](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg)
 | aw | aʊ | out [***aw*** t] |
 | ax<sup>3</sup> | ə | again [***ax*** g eh n] | [Audio](https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg)
